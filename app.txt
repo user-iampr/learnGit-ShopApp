@@ -1,6 +1,6 @@
 * Start building the basic structure of the app from Android Studios
     - Make Home Page layout (Bug Fix 2 in home page)
-    - Make Home Page layout
+    - Make Home Page layout (Bug fix 1)
     - Add Sign Up Feature
     - Add SignIn Feature
     - Maintain User Pool (Bug Fix User Pool)
