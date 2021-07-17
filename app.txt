@@ -4,3 +4,4 @@
     - Add Sign Up Feature
     - Add SignIn Feature
     - Maintain User Pool (Bug Fix User Pool)
+    - Search (1 of 2)
