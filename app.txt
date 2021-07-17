@@ -1,2 +1,3 @@
 * Start building the basic structure of the app from Android Studios
     - Make Home Page layout
+    - Add Sign Up Feature
