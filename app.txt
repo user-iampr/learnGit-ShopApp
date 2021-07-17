@@ -2,4 +2,4 @@
     - Make Home Page layout
     - Add Sign Up Feature
     - Add SignIn Feature
-    - Maintain User Pool
+    - Maintain User Pool (Bug Fix User Pool)
