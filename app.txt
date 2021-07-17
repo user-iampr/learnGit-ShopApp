@@ -1,2 +1,2 @@
 * Start building the basic structure of the app from Android Studios
-    - Make Home Page layout (Bug Fix 1 in home page)
+    - Make Home Page layout (Bug Fix 2 in home page)
